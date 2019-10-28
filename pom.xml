@@ -5,11 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.lyp.demo</groupId>
-  <artifactId>demo01</artifactId>
+  <artifactId>ssm_crud</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
 
-  <name>demo01 Maven Webapp</name>
+  <name>ssm_crud Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
